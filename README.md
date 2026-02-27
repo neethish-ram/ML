@@ -32,12 +32,12 @@ To write program for Linear Regression and Model Evaluation using MAE, MSE, R2 a
 
 ### Algorithm:
 
-Step 1: Import required libraries and prepare dataset
-Step 2: Initialize and Train Linear Regression model
-Step 3: Use the trained model to predict output values
-Step 4: Calculate Model Evaluation Metrics
-Step 5: Compute Residuals
-Step 6: Plot Residual Graph
+• Import required libraries and prepare dataset
+• Initialize and Train Linear Regression model
+• Use the trained model to predict output values
+• Calculate Model Evaluation Metrics
+• Compute Residuals
+• Plot Residual Graph
 
 ### Output:
 
@@ -53,12 +53,12 @@ To write program for Logistic Regression for Classification
 
 ### Algorithm:
 
-• Step 1: Import required libraries.
-• Step 2 : Prepare the dataset
-• Step 3: split it into training and testing data.
-• Step 4: Train the logistic regression model
-• Step 5: Make predictions.
-• Step 6: Evaluate model performance.
+• Import required libraries.
+• Prepare the dataset
+• Split it into training and testing data.
+• Train the logistic regression model
+• Make predictions.
+• Evaluate model performance.
 
 ### Output:
 
